@@ -1,0 +1,214 @@
+body{
+    background-color: hsl(0, 3%, 94%);
+}
+.container{
+    background-color: #ffffff;
+    border-radius: 50px 50px 0px 0px;
+    margin: 20px;
+}
+header{
+    background-color: blue;
+    border-radius: 50px 50px 0px 0px;
+    font-family: sans-serif;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+.menu{
+    display: flex;
+    text-transform: uppercase;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.name-site{
+    width: 20%;
+    margin-top: 40px;
+    font-family: sans-serif;
+}
+.menu-site{
+    width: 60%;
+    margin-top: 40px;
+    font-size: 10px;
+    font-family: sans-serif;
+}
+.icon-reseau{
+    width: 20%;
+    margin-top: 40px;
+}
+nav a{
+    padding: 3%;
+}
+.bannier{
+    display: flex;
+    margin-left: 60px;
+}
+.gauche{
+    width: 40%;
+    color: #fff;
+    margin-top: 150px;
+}
+.gauche h1{
+    font-size: 34px;
+    font-family: sans-serif;
+}
+P{
+    font-size: 17px;
+}
+.droite{
+    width: 60%;
+}
+.t-1{
+    width: 20px;
+    position: absolute;
+    top: 43%;
+    margin-left: 27%;
+}
+.t-2{
+    width: 20px;
+    position: absolute;
+    top: 92%;
+    margin-left: 10.5%;
+}
+.pizza{
+    width: 280px;
+    position: absolute;
+    top: 42%;
+    margin-left: 7%;
+}
+.sandwich{
+    position: absolute;
+    top: 55%;
+    height: 30%;
+    width: 40%;
+}
+input{
+    width: 140px;
+    height: 40px;
+    background-color: orange;
+    text-transform: capitalize;
+    border-radius: 7px;
+    color: #fff;
+    margin-bottom: 200px;
+    cursor: pointer;
+}
+.deco{
+    width: 300px;
+    height:300px;
+    border-radius: 100%;
+    border: 4px solid;
+    border-color: #fff;
+    border-style: dotted;
+    margin-top: 120px;
+    margin-left: 10%;
+}
+.red{
+    color: red;
+}
+.prix{
+    position: absolute;
+    background-color: white;
+    margin-left: 65%;
+    width: 200px;
+    border-radius: 7px;
+    margin-top: -25%;
+}
+.p-pizza{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+b{
+    margin-left: 5px;
+}
+.info-pizza{
+    margin-left: 10px;
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+.bloc{
+    display: flex;
+    margin-left: 60px;
+    margin-top: 70px;
+}
+.bloc h1{
+    color: blue;
+    font-size: 22px;
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bloc p{
+    font-size: 14px;
+}
+p li{
+    font-size: 14px;  
+}
+.client{
+    display: flex;
+}
+.client .clt-1{
+    width: 160px;
+    height: 210px;
+    border: 1px solid;
+    border-color: #ffffff;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 1px 1px rgb(243, 243, 243);
+}
+#img2{
+    margin: 5px;
+}
+.client .clt-2{
+    width: 160px;
+    height: 210px;
+    border: 1px solid;
+    border-color: #ffffff;
+    margin-left: -25px;
+    margin-top: 20px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 1px 1px rgb(218, 217, 217);
+}
+#img3{
+    margin: 5px;
+}
+.bloc1{
+    display: flex;
+    margin-left: 60px;
+}
+.bloc1 h1{
+    color: blue;
+    font-size: 22px;
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bloc1 p{
+    font-size: 14px;
+}
+.view-all{
+    background-color: blue;
+    width: 80px;
+    border: blue;
+    cursor: pointer;
+}
+.hoogie{
+    border-radius: 10px;
+    margin-right: 8px;
+}
+.burger{
+    border-radius: 10px;
+    margin-right: 8px;
+}
+.pizza1{
+    border-radius: 10px;
+}
+.plat{
+    margin-left: 60px;
+    display: flex;
+}
+.client{
+    margin-left: 60px;
+}
+.plat p{
+    margin-top: -20px;
+    font-size: 10px;
+}
+
